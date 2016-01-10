@@ -1,3 +1,13 @@
+This is a forked version of [h2o's](https://github.com/h2o) http server written in C of the same name - [h2o](https://github.com/h2o/h2o).
+
+It was forked from commit [c6c7e5ba77b593825bdbe20d439695d26114042b](https://github.com/h2o/h2o/commit/c6c7e5ba77b593825bdbe20d439695d26114042b).
+
+The goal of this fork is to turn h2o into a fast, minimalist, middleware, web app framework - much like [Express](http://expressjs.com/) is for node.js.
+
+Below is the start of original README.
+
+
+
 H2O - an optimized HTTP server with support for HTTP/1.x and HTTP/2
 ===
 
